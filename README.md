@@ -1,2 +1,6 @@
 # TheMatrix
 一个简陋版的致敬黑客帝国的数字雨程序
+## building
++ gcc  命令行 gcc -mwindows snake.c -o snake
++ visual studio2022
+
